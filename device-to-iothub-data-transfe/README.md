@@ -1,4 +1,4 @@
-# Folder contents examples for
+# Examples 
   - mxchip to iot hub data upload 
   - sensor used (temperature,humidity)
 
